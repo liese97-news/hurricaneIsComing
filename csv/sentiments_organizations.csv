@@ -1,8 +1,12 @@
 ,phrase,label,sentiment,subjectivity,language,count
+GEO,GEO,ORG,1.0,0.0,de,2
 Windgeschwindigke…,Windgeschwindigke…,ORG,0.0,0.0,de,1
+App,App,ORG,0.0,0.0,de,1
 Hurrikans «Humberto,Hurrikans «Humberto,ORG,0.0,0.0,de,1
 f…,f…,ORG,0.7,0.0,de,1
 fün…,fün…,ORG,0.7,0.0,de,1
 NACHRICHTEN,NACHRICHTEN,ORG,0.0,0.0,de,1
+Zugbahn,Zugbahn,ORG,0.0,0.0,de,1
+Zwangsehe,Zwangsehe,ORG,0.0,0.0,de,1
 Smartphone,Smartphone,ORG,0.0,0.0,de,1
 Offshore-Regatten,Offshore-Regatten,ORG,0.0,0.0,de,1

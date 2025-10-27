@@ -1,3 +1,6 @@
 ,phrase,label,sentiment,subjectivity,language,count
-"Taifun ""Bualoi","Taifun ""Bualoi",PER,0.0,0.0,de,2
+"Taifun ""Bualoi","Taifun ""Bualoi",PER,0.0,0.0,de,4
 Taifun Bualoi,Taifun Bualoi,PER,-0.2333333333333333,0.6666666666666666,de,1
+Roborock H60,Roborock H60,PER,0.0,0.0,de,1
+Reshma Khatun,Reshma Khatun,PER,0.0,0.0,de,1
+Rainer Buchhop,Rainer Buchhop,PER,0.0,0.0,de,1

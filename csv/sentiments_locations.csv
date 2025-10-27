@@ -1,25 +1,47 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Vietnam,Vietnam,LOC,-0.035416666666666666,0.0625,de,16
-Bermuda,Bermuda,LOC,0.0,0.0,de,9
-Philippinen,Philippinen,LOC,-0.07083333333333333,0.08333333333333333,de,8
-Nordatlantik,Nordatlantik,LOC,0.0,0.0,de,6
-Atlantik,Atlantik,LOC,-0.31111111111111106,0.0,de,3
-Bualoi,Bualoi,LOC,-0.2333333333333333,0.0,de,3
+Vietnam,Vietnam,LOC,-0.026984126984126982,0.047619047619047616,de,21
+Philippinen,Philippinen,LOC,0.00888888888888889,0.04444444444444444,de,15
+Bermuda,Bermuda,LOC,-0.05384615384615384,0.0,de,13
+Nordatlantik,Nordatlantik,LOC,0.0,0.0,de,10
+Nordsee,Nordsee,LOC,-0.13999999999999999,0.0,de,5
+Atlantik,Atlantik,LOC,-0.4083333333333333,0.0,de,4
+Bualoi,Bualoi,LOC,-0.175,0.0,de,4
+Windböen,Windböen,LOC,-0.2333333333333333,0.0,de,3
+Bermuda-Inseln,Bermuda-Inseln,LOC,0.4666666666666666,0.0,de,3
+Stromausfälle,Stromausfälle,LOC,0.4666666666666666,0.0,de,3
+Ärmelkanal,Ärmelkanal,LOC,-0.2333333333333333,0.0,de,3
+Joshua,Joshua,LOC,-0.2333333333333333,0.0,de,3
+Australiens,Australiens,LOC,-0.6666666666666666,0.3333333333333333,de,3
+Wirbelsturm,Wirbelsturm,LOC,-0.2333333333333333,0.0,de,3
 Spanien,Spanien,LOC,-0.11666666666666665,0.0,de,2
 Zentrum des Sturms der Stufe,Zentrum des Sturms der Stufe,LOC,0.7,0.0,de,2
+Stundenkilometern,Stundenkilometern,LOC,-0.35,0.0,de,2
+Stromversorger,Stromversorger,LOC,0.0,0.0,de,2
+Alaskas,Alaskas,LOC,0.7,0.0,de,1
+Ermont…,Ermont…,LOC,0.0,0.0,de,1
+Bangladesch,Bangladesch,LOC,0.0,0.0,de,1
+Paris,Paris,LOC,0.0,0.0,de,1
+Nordseeküste,Nordseeküste,LOC,0.0,0.0,de,1
+Orkanböen,Orkanböen,LOC,0.0,0.0,de,1
+Herbststurm Joshua,Herbststurm Joshua,LOC,-0.7,0.0,de,1
+Halong,Halong,LOC,0.7,0.0,de,1
+Irawan,Irawan,LOC,-0.7,0.0,de,1
+Nordmeer,Nordmeer,LOC,-0.7,0.0,de,1
+Bretagne,Bretagne,LOC,-0.7,0.0,de,1
+Yukon-Kuskokwim-Delta,Yukon-Kuskokwim-Delta,LOC,0.7,0.0,de,1
+Bualoi a,Bualoi a,LOC,0.0,0.0,de,1
+Alaska,Alaska,LOC,1.0,0.0,de,1
+Klimawandel,Klimawandel,LOC,0.0,1.0,de,1
+Starke Regenfälle,Starke Regenfälle,LOC,0.7,0.0,de,1
+Samar,Samar,LOC,0.0,0.0,de,1
+nan,nan,LOC,0.0,0.0,de,1
+No…,No…,LOC,0.0,0.0,de,1
+Ang…,Ang…,LOC,0.0,0.0,de,1
 Spaniens,Spaniens,LOC,0.0,0.0,de,1
+Zyklon,Zyklon,LOC,0.0,0.0,de,1
+Dock,Dock,LOC,0.0,0.0,de,1
 Behördenangaben,Behördenangaben,LOC,-0.7,0.0,de,1
 Küste,Küste,LOC,-0.7,0.0,de,1
-Ang…,Ang…,LOC,0.0,0.0,de,1
-Stundenkilometern,Stundenkilometern,LOC,-0.7,0.0,de,1
-Stromausfälle,Stromausfälle,LOC,0.0,0.0,de,1
-Bermuda-Inseln,Bermuda-Inseln,LOC,0.0,0.0,de,1
-Stromversorger,Stromversorger,LOC,0.0,0.0,de,1
-nan,nan,LOC,0.0,0.0,de,1
-Bualoi a,Bualoi a,LOC,0.0,0.0,de,1
-Samar,Samar,LOC,0.0,0.0,de,1
-Starke Regenfälle,Starke Regenfälle,LOC,0.7,0.0,de,1
-Windböen,Windböen,LOC,0.7,0.0,de,1
-Paris,Paris,LOC,0.0,0.0,de,1
-Wirbelsturm,Wirbelsturm,LOC,0.0,0.0,de,1
-Ermont…,Ermont…,LOC,0.0,0.0,de,1
+Südchina,Südchina,LOC,0.0,0.0,de,1
+Taiwan,Taiwan,LOC,0.0,0.0,de,1
+Herbststurm,Herbststurm,LOC,-0.7,0.0,de,1
