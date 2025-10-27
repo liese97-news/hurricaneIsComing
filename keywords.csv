@@ -6,9 +6,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zyklon Windgeschwindigkeit',de,Hazard,#32a7f5,#4287c5,2,0.4561576325690093
 'Hurrikan Ozean',de,Causes,#b28765,#b28765,2,0.4492183001470432
 'Tropischer Wirbelsturm',de,Hazard,#4297d5,#4287f5,1,0.4326288511404378
-'Medicane',de,Hazard,#3297f5,#4287f5,1,0.4326288511404378
 'Wirbelsturm Schäden',de,Impacts,#12a8e5,#02a7f5,1,0.4017666199892555
 'Wirbelstürme Klimawandel',de,Causes,#a29745,#b28765,1,0.3986657643749867
 'Wirbelsturm',de,Hazard,#3287e5,#4287f5,2,0.3910455982239663
+'Medicane',de,Hazard,#3297f5,#4287f5,1,0.36773452346937213
 'Taifun',de,Hazard,#5287f5,#4287f5,2,0.3546900839363401
 'Hurrikan',de,Hazard,#4287e5,#4287f5,2,0.2603067388677106
