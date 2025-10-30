@@ -12,3 +12,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wirbelstürme Klimawandel',de,Causes,#a29745,#b28765,1,0.3400660197187387
 'Zyklon Windgeschwindigkeit',de,Hazard,#32a7f5,#4287c5,1,0.3295738895311092
 'Hurrikan',de,Hazard,#4287e5,#4287f5,2,0.2603067388677106
+'Hurrikan Ausläufer',de,Impacts,#12a7d5,#02a7f5,1,0.510690428332342
