@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Tropischer Wirbelsturm',de,Hazard,#4297d5,#4287f5,2,0.5184845984693721
 'Tropensturm',de,Hazard,#5297f5,#4287d5,1,0.4326292261404378
-'Tropischer Wirbelsturm',de,Hazard,#4297d5,#4287f5,1,0.4326288511404378
 'Wirbelsturm Tote',de,Impacts,#02a7f5,#02a7f5,2,0.411646666408249
 'Hurrikan Ausläufer',de,Impacts,#12a7d5,#02a7f5,1,0.4020090600772599
 'Hurrikan Evakuierung',de,Mitigation,#a227ff,#b237ff,1,0.3889670458687386
