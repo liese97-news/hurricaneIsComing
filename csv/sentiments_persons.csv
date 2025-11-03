@@ -1,6 +1,21 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Hurrikan Melissa,Hurrikan Melissa,PER,-0.43571428571428567,0.07142857142857142,de,7
 "Taifun ""Bualoi","Taifun ""Bualoi",PER,0.0,0.0,de,4
+Andrew Holness,Andrew Holness,PER,-0.6375,0.0,de,4
+Jamaikas Regierungschef,Jamaikas Regierungschef,PER,-0.7,0.0,de,2
+Ronalyn Balindan,Ronalyn Balindan,PER,0.0,0.0,de,1
+Windgeschwindigkeiten vo,Windgeschwindigkeiten vo,PER,0.0,0.0,de,1
+Dana Morris Dixon,Dana Morris Dixon,PER,-0.2333333333333333,0.0,de,1
+Dana M,Dana M,PER,0.0,0.0,de,1
+Durchzug von Melissa,Durchzug von Melissa,PER,0.0,0.0,de,1
+Unblock Cuba,Unblock Cuba,PER,0.0,0.0,de,1
+Miguel Díaz-Canel,Miguel Díaz-Canel,PER,0.0,1.0,de,1
+Donald Trump,Donald Trump,PER,1.0,0.0,de,1
+Jamaikas Küste,Jamaikas Küste,PER,1.0,0.0,de,1
+Reshma Khatun,Reshma Khatun,PER,0.0,0.0,de,1
 Taifun Bualoi,Taifun Bualoi,PER,-0.2333333333333333,0.6666666666666666,de,1
 Roborock H60,Roborock H60,PER,0.0,0.0,de,1
-Reshma Khatun,Reshma Khatun,PER,0.0,0.0,de,1
 Rainer Buchhop,Rainer Buchhop,PER,0.0,0.0,de,1
+Steven Anaver,Steven Anaver,PER,0.0,0.0,de,1
+Durchzug von Tropensturm,Durchzug von Tropensturm,PER,0.0,0.0,de,1
+"Hurrikan ""Melissa","Hurrikan ""Melissa",PER,-0.7,0.0,de,1
