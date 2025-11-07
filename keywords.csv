@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hurrikan Warnung',de,Mitigation,#b437cf,#b237ff,2,0.367721326977708
 'Hurrikan Ausläufer',de,Impacts,#12a7d5,#02a7f5,1,0.3520794899058203
-'Wirbelsturm',de,Hazard,#3287e5,#4287f5,2,0.3473018224668156
-'Wirbelsturm Tote',de,Impacts,#02a7f5,#02a7f5,3,0.34329903452279376
+'Wirbelsturm',de,Hazard,#3287e5,#4287f5,3,0.3456142445513387
+'Wirbelsturm Tote',de,Impacts,#02a7f5,#02a7f5,3,0.3432990345227937
 'Wirbelsturm Schäden',de,Impacts,#12a8e5,#02a7f5,2,0.3429391238293106
 'Wirbelstürme Klimawandel',de,Causes,#a29745,#b28765,1,0.3400660197187387
 'Tropischer Wirbelsturm',de,Hazard,#4297d5,#4287f5,1,0.320079585560003
