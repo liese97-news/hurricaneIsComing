@@ -1,123 +1,164 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Jamaika,Jamaika,LOC,-0.1534653465346535,0.06930693069306931,de,101
-Kuba,Kuba,LOC,-0.1368421052631579,0.0,de,38
-Karibik,Karibik,LOC,-0.22760416666666666,0.03125,de,32
-Vietnam,Vietnam,LOC,-0.056666666666666664,0.08,de,25
-Philippinen,Philippinen,LOC,-0.028333333333333332,0.03333333333333333,de,20
-Bermuda,Bermuda,LOC,-0.04666666666666666,0.0,de,15
-Bahamas,Bahamas,LOC,-0.36153846153846153,0.0,de,13
-Wirbelsturm,Wirbelsturm,LOC,-0.29230769230769227,0.0,de,13
+Jamaika,Jamaika,LOC,-0.17134146341463416,0.0508130081300813,de,246
+Kuba,Kuba,LOC,-0.17387387387387387,0.013513513513513514,de,74
+Karibik,Karibik,LOC,-0.2006535947712418,0.09803921568627451,de,51
+Philippinen,Philippinen,LOC,-0.04796747967479675,0.04065040650406504,de,41
+Vietnam,Vietnam,LOC,-0.0004901960784313708,0.058823529411764705,de,34
+Karibikinsel,Karibikinsel,LOC,-0.15,0.10344827586206896,de,29
+Wirbelsturm,Wirbelsturm,LOC,-0.20987654320987656,0.012345679012345678,de,27
+Bahamas,Bahamas,LOC,-0.4043478260869566,0.0,de,23
+Bermuda,Bermuda,LOC,-0.1565217391304348,0.0,de,23
+Haiti,Haiti,LOC,-0.063768115942029,0.0,de,23
+Atlantik,Atlantik,LOC,-0.4422222222222222,0.06666666666666667,de,15
+Melissa,Melissa,LOC,-0.38,0.0,de,15
 Nordatlantik,Nordatlantik,LOC,0.05384615384615384,0.0,de,13
-Atlantik,Atlantik,LOC,-0.5121212121212121,0.09090909090909091,de,11
-Karibikinsel,Karibikinsel,LOC,-0.26818181818181813,0.0,de,11
-Haiti,Haiti,LOC,-0.15454545454545454,0.0,de,11
-Melissa,Melissa,LOC,-0.33636363636363636,0.0,de,11
-Jamaica,Jamaica,LOC,0.0,0.0,de,6
+Karibikstaat,Karibikstaat,LOC,0.5444444444444445,0.0,de,9
+Hurrikan,Hurrikan,LOC,-0.1111111111111111,0.0,de,9
+USA,USA,LOC,-0.0875,0.125,de,8
+Jamaica,Jamaica,LOC,0.0,0.0,de,7
+…,…,LOC,-0.08095238095238096,0.047619047619047616,de,7
+Land,Land,LOC,0.0,0.0,de,7
+Südostasien,Südostasien,LOC,0.0,0.0,de,6
+Notunterkünften,Notunterkünften,LOC,0.0,0.0,de,6
+Dominikanischen Republik,Dominikanischen Republik,LOC,-0.13999999999999999,0.0,de,5
+Jamaikas,Jamaikas,LOC,0.0,0.0,de,5
+Meteorologen,Meteorologen,LOC,-0.6,0.0,de,5
 Nordsee,Nordsee,LOC,-0.13999999999999999,0.0,de,5
-…,…,LOC,-0.11333333333333333,0.06666666666666667,de,5
-Hurrikan,Hurrikan,LOC,-0.2,0.0,de,5
-Land,Land,LOC,0.0,0.0,de,4
-Stundenkilometern,Stundenkilometern,LOC,-0.38749999999999996,0.0,de,4
-USA,USA,LOC,-0.35,0.25,de,4
+Windböen,Windböen,LOC,-0.13999999999999999,0.0,de,5
+Hurrikan-Katastrophe,Hurrikan-Katastrophe,LOC,0.0,0.2,de,5
+Stundenkilometern,Stundenkilometern,LOC,-0.30999999999999994,0.0,de,5
+Kingston,Kingston,LOC,0.0,0.0,de,5
 Bualoi,Bualoi,LOC,-0.175,0.0,de,4
-Alaska,Alaska,LOC,0.425,0.0,de,4
-Tropensturm,Tropensturm,LOC,0.175,0.0,de,4
 Alaskas,Alaskas,LOC,0.175,0.0,de,4
+Staaten,Staaten,LOC,0.0,0.0,de,4
+Tropensturm,Tropensturm,LOC,0.175,0.0,de,4
+Alaska,Alaska,LOC,0.425,0.0,de,4
+Vietnams,Vietnams,LOC,0.5249999999999999,0.0,de,4
+Regierungsangaben,Regierungsangaben,LOC,0.0,0.0,de,4
+Díaz-Canel,Díaz-Canel,LOC,-0.75,0.0,de,4
+Florida,Florida,LOC,-0.75,0.0,de,4
 Ärmelkanal,Ärmelkanal,LOC,-0.2333333333333333,0.0,de,3
-Dominikanischen Republik,Dominikanischen Republik,LOC,-0.2333333333333333,0.0,de,3
-Schlimmste,Schlimmste,LOC,0.0,0.0,de,3
-Australiens,Australiens,LOC,-0.6666666666666666,0.3333333333333333,de,3
-Karibikstaat,Karibikstaat,LOC,0.2333333333333333,0.0,de,3
-Windböen,Windböen,LOC,-0.2333333333333333,0.0,de,3
-Meteorologen,Meteorologen,LOC,-0.6666666666666666,0.0,de,3
-Florida,Florida,LOC,-1.0,0.0,de,3
-Staaten,Staaten,LOC,0.05000000000000001,0.0,de,3
-Bermuda-Inseln,Bermuda-Inseln,LOC,0.4666666666666666,0.0,de,3
-Stromausfälle,Stromausfälle,LOC,0.4666666666666666,0.0,de,3
 Joshua,Joshua,LOC,-0.2333333333333333,0.0,de,3
-Landes,Landes,LOC,0.0,0.0,de,2
-Katastrophengebiet,Katastrophengebiet,LOC,0.35,0.0,de,2
-Díaz-Canel,Díaz-Canel,LOC,-0.75,0.0,de,2
-Kubas,Kubas,LOC,-0.85,0.0,de,2
-Hurrikans,Hurrikans,LOC,0.0,0.0,de,2
-Südchina,Südchina,LOC,0.0,0.0,de,2
-Milliardenhöhe,Milliardenhöhe,LOC,0.0,0.0,de,2
-offene Meer,offene Meer,LOC,0.0,0.0,de,2
-Straße,Straße,LOC,0.0,1.0,de,2
-Spanien,Spanien,LOC,-0.11666666666666665,0.0,de,2
-Stromversorger,Stromversorger,LOC,0.0,0.0,de,2
-Taifun Halong,Taifun Halong,LOC,0.0,0.0,de,2
-Notunterkünfte,Notunterkünfte,LOC,0.0,0.0,de,2
+Dächer,Dächer,LOC,-0.2333333333333333,0.0,de,3
+Überschwemmungen,Überschwemmungen,LOC,0.5444444444444444,0.0,de,3
+Bermuda-Inseln,Bermuda-Inseln,LOC,0.4666666666666666,0.0,de,3
+Schlimmste,Schlimmste,LOC,0.0,0.0,de,3
+Milliardenhöhe,Milliardenhöhe,LOC,-0.16666666666666666,0.16666666666666666,de,3
+Stromausfälle,Stromausfälle,LOC,0.4666666666666666,0.0,de,3
+Bezirken,Bezirken,LOC,0.0,0.6666666666666666,de,3
+Kubas,Kubas,LOC,-0.5666666666666667,0.0,de,3
+Australiens,Australiens,LOC,-0.6666666666666666,0.3333333333333333,de,3
+Thailand,Thailand,LOC,0.4666666666666666,0.0,de,3
+US-Präsident,US-Präsident,LOC,0.3333333333333333,0.0,de,3
+Küste,Küste,LOC,-0.2333333333333333,0.0,de,3
+Bäume,Bäume,LOC,-0.2333333333333333,0.0,de,3
+Insel,Insel,LOC,-0.2333333333333333,0.0,de,3
+Landes,Landes,LOC,0.0,0.0,de,3
 Hanoi,Hanoi,LOC,-0.425,0.0,de,2
+Hurrikans,Hurrikans,LOC,0.0,0.0,de,2
+Trümmer,Trümmer,LOC,0.0,0.0,de,2
+Live-Karte,Live-Karte,LOC,-1.0,0.0,de,2
+Jamaicas,Jamaicas,LOC,0.0,0.0,de,2
+Katastrophengebiet,Katastrophengebiet,LOC,0.35,0.0,de,2
+US-Hurrikanzentrum,US-Hurrikanzentrum,LOC,-0.35,0.0,de,2
+offenen Meer,offenen Meer,LOC,-0.15000000000000002,0.0,de,2
+Kurs,Kurs,LOC,-0.35,0.0,de,2
+Südchina,Südchina,LOC,0.0,0.0,de,2
+Inselstaates,Inselstaates,LOC,0.0,0.0,de,2
+Sturm,Sturm,LOC,0.0,0.0,de,2
+Hilfsgüter,Hilfsgüter,LOC,-0.2333333333333333,0.6666666666666666,de,2
+Böen,Böen,LOC,0.0,0.0,de,2
+Straße,Straße,LOC,0.0,1.0,de,2
+Taifun Halong,Taifun Halong,LOC,0.0,0.0,de,2
+Stromversorger,Stromversorger,LOC,0.0,0.0,de,2
 Zentrum des Sturms der Stufe,Zentrum des Sturms der Stufe,LOC,0.7,0.0,de,2
-Nordseeküste,Nordseeküste,LOC,0.0,0.0,de,1
-Santiago de Cuba,Santiago de Cuba,LOC,-1.0,0.0,de,1
-Gabrielle,Gabrielle,LOC,0.0,0.0,de,1
+Notunterkünfte,Notunterkünfte,LOC,0.0,0.0,de,2
+Spanien,Spanien,LOC,-0.11666666666666665,0.0,de,2
+offene Meer,offene Meer,LOC,0.0,0.0,de,2
+nan,nan,LOC,-0.07500000000000001,0.0,de,2
+südostasiatischen Land,südostasiatischen Land,LOC,0.0,0.0,de,1
+Krankenhäuser,Krankenhäuser,LOC,0.0,0.0,de,1
 Cantal,Cantal,LOC,0.0,0.0,de,1
 Barry,Barry,LOC,0.0,0.0,de,1
-Taiwan,Taiwan,LOC,0.0,0.0,de,1
-Chinas,Chinas,LOC,0.0,0.0,de,1
-Dominikanische Republik,Dominikanische Republik,LOC,-1.0,0.0,de,1
+Feldlazarette,Feldlazarette,LOC,0.0,0.0,de,1
+Santiago de Cuba,Santiago de Cuba,LOC,-1.0,0.0,de,1
+Atlantiks,Atlantiks,LOC,0.0,0.0,de,1
 Landfall,Landfall,LOC,0.0,0.0,de,1
-Live-Karte,Live-Karte,LOC,-1.0,0.0,de,1
+Taiwan,Taiwan,LOC,0.0,0.0,de,1
 Kürze,Kürze,LOC,0.0,0.0,de,1
-US-Präsident,US-Präsident,LOC,1.0,0.0,de,1
-nan,nan,LOC,0.0,0.0,de,1
+US-Hurrikanwarnz,US-Hurrikanwarnz,LOC,-0.5,0.5,de,1
+Gabrielle,Gabrielle,LOC,0.0,0.0,de,1
 Kat…,Kat…,LOC,-0.6,0.0,de,1
-Bualoi a,Bualoi a,LOC,0.0,0.0,de,1
-Überflutungen,Überflutungen,LOC,0.0,0.0,de,1
-Trümmer,Trümmer,LOC,0.0,0.0,de,1
-No…,No…,LOC,0.0,0.0,de,1
-Ang…,Ang…,LOC,0.0,0.0,de,1
-Zyklon,Zyklon,LOC,0.0,0.0,de,1
-Port-au-Prince,Port-au-Prince,LOC,0.0,0.0,de,1
-Petit-Goâve,Petit-Goâve,LOC,0.0,0.0,de,1
-Hurrikan-Katastrophe,Hurrikan-Katastrophe,LOC,0.0,1.0,de,1
-Wirbelsturm in der Karibik,Wirbelsturm in der Karibik,LOC,0.0,0.0,de,1
-Landstriche,Landstriche,LOC,0.0,0.0,de,1
-Bermuda-Inselgruppe,Bermuda-Inselgruppe,LOC,0.7,0.0,de,1
-Ahrtal,Ahrtal,LOC,0.0,1.0,de,1
-Dominikanischen Republik g,Dominikanischen Republik g,LOC,0.0,0.0,de,1
+noc…,noc…,LOC,0.0,0.0,de,1
 Washington,Washington,LOC,0.0,0.0,de,1
+Wirbelsturm Melissa,Wirbelsturm Melissa,LOC,0.0,0.0,de,1
+Black River,Black River,LOC,0.0,0.0,de,1
+Bermudas,Bermudas,LOC,0.0,0.0,de,1
 Hurrikan-Schäden,Hurrikan-Schäden,LOC,0.7,0.0,de,1
-offenen Meer,offenen Meer,LOC,-0.15000000000000002,0.0,de,1
+Dominikanischen Republik g,Dominikanischen Republik g,LOC,0.0,0.0,de,1
+Landstriche,Landstriche,LOC,0.0,0.0,de,1
 Hurrikan Melissa,Hurrikan Melissa,LOC,-0.15000000000000002,0.0,de,1
-Überschwemmungen,Überschwemmungen,LOC,0.7,0.0,de,1
-Notunterkünften,Notunterkünften,LOC,0.0,0.0,de,1
-Zentrum des Hurrikans,Zentrum des Hurrikans,LOC,0.0,0.0,de,1
-Irawan,Irawan,LOC,-0.7,0.0,de,1
-Sturmflut,Sturmflut,LOC,-0.5666666666666667,0.3333333333333333,de,1
+Wirbelsturm in der Karibik,Wirbelsturm in der Karibik,LOC,0.0,0.0,de,1
+Petit-Goâve,Petit-Goâve,LOC,0.0,0.0,de,1
+Wi…,Wi…,LOC,0.0,0.0,de,1
+Port-au-Prince,Port-au-Prince,LOC,0.0,0.0,de,1
+Nimand,Nimand,LOC,0.0,0.0,de,1
+Dominikanische Republik,Dominikanische Republik,LOC,-1.0,0.0,de,1
+Sangster International Airport …,Sangster International Airport …,LOC,0.0,0.0,de,1
+Treibstoff,Treibstoff,LOC,0.0,0.0,de,1
+Überflutungen,Überflutungen,LOC,0.0,0.0,de,1
+Bermuda-Inselgruppe,Bermuda-Inselgruppe,LOC,0.7,0.0,de,1
+No…,No…,LOC,0.0,0.0,de,1
+d…,d…,LOC,0.0,0.0,de,1
+Abendhimmel,Abendhimmel,LOC,-0.7,0.0,de,1
 Gliedstaates besingen,Gliedstaates besingen,LOC,-0.7,0.0,de,1
-Bangladesch,Bangladesch,LOC,0.0,0.0,de,1
+Ang…,Ang…,LOC,0.0,0.0,de,1
 Jamaik…,Jamaik…,LOC,-0.7,0.0,de,1
-Paris,Paris,LOC,0.0,0.0,de,1
-Ermont…,Ermont…,LOC,0.0,0.0,de,1
-Küste,Küste,LOC,-0.7,0.0,de,1
-Haus,Haus,LOC,0.0,0.0,de,1
-Behördenangaben,Behördenangaben,LOC,-0.7,0.0,de,1
-Dock,Dock,LOC,0.0,0.0,de,1
 Herbststurm,Herbststurm,LOC,-0.7,0.0,de,1
 Herbststurm Joshua,Herbststurm Joshua,LOC,-0.7,0.0,de,1
-US-Westküste,US-Westküste,LOC,0.0,0.0,de,1
 Bretagne,Bretagne,LOC,-0.7,0.0,de,1
-Orkanböen,Orkanböen,LOC,0.0,0.0,de,1
 Nordmeer,Nordmeer,LOC,-0.7,0.0,de,1
-Meeres,Meeres,LOC,-0.7,0.0,de,1
-Abendhimmel,Abendhimmel,LOC,-0.7,0.0,de,1
+Irawan,Irawan,LOC,-0.7,0.0,de,1
+Nordseeküste,Nordseeküste,LOC,0.0,0.0,de,1
+Orkanböen,Orkanböen,LOC,0.0,0.0,de,1
+US-Westküste,US-Westküste,LOC,0.0,0.0,de,1
+Haus,Haus,LOC,0.0,0.0,de,1
+Ermont…,Ermont…,LOC,0.0,0.0,de,1
+Paris,Paris,LOC,0.0,0.0,de,1
+Bangladesch,Bangladesch,LOC,0.0,0.0,de,1
 Yukon-Kuskokwim-Delta,Yukon-Kuskokwim-Delta,LOC,0.7,0.0,de,1
-Inselstaats,Inselstaats,LOC,-0.7,0.0,de,1
+Halong,Halong,LOC,0.7,0.0,de,1
+Klimawandel,Klimawandel,LOC,0.0,1.0,de,1
+Dörfern,Dörfern,LOC,0.7,0.0,de,1
+Starke Regenfälle,Starke Regenfälle,LOC,0.7,0.0,de,1
+Samar,Samar,LOC,0.0,0.0,de,1
+Bualoi a,Bualoi a,LOC,0.0,0.0,de,1
+Chinas,Chinas,LOC,0.0,0.0,de,1
+Meeres,Meeres,LOC,-0.7,0.0,de,1
+Spaniens,Spaniens,LOC,0.0,0.0,de,1
+jamaikanische Küste,jamaikanische Küste,LOC,0.0,0.0,de,1
+Zyklon,Zyklon,LOC,0.0,0.0,de,1
+Inselstaat,Inselstaat,LOC,0.7,0.0,de,1
+Inselstaates auf Land,Inselstaates auf Land,LOC,0.0,0.0,de,1
+Israel,Israel,LOC,0.0,0.0,de,1
+Bil…,Bil…,LOC,0.0,0.0,de,1
+Sonnenaufgang,Sonnenaufgang,LOC,0.0,0.0,de,1
+Kingston Monstersturm Melissa,Kingston Monstersturm Melissa,LOC,0.0,0.0,de,1
+Küste von Jamaika,Küste von Jamaika,LOC,-1.0,0.0,de,1
+Ahrtal,Ahrtal,LOC,0.0,1.0,de,1
+Zentrum des Hurrikans,Zentrum des Hurrikans,LOC,0.0,0.0,de,1
 Europa,Europa,LOC,0.0,0.0,de,1
 s…,s…,LOC,0.0,0.0,de,1
-Samar,Samar,LOC,0.0,0.0,de,1
-Jamaikas,Jamaikas,LOC,0.0,0.0,de,1
+US-Hurrikanzentr…,US-Hurrikanzentr…,LOC,0.0,0.0,de,1
+Dienstagmorgen,Dienstagmorgen,LOC,0.0,0.0,de,1
+Hurrikan-Stärke,Hurrikan-Stärke,LOC,0.0,0.0,de,1
 Wirbelsturm d…,Wirbelsturm d…,LOC,0.0,0.0,de,1
-Starke Regenfälle,Starke Regenfälle,LOC,0.7,0.0,de,1
+Land reg…,Land reg…,LOC,0.0,0.0,de,1
+Inselstaats,Inselstaats,LOC,-0.7,0.0,de,1
 Port Royal,Port Royal,LOC,0.0,0.0,de,1
-Spaniens,Spaniens,LOC,0.0,0.0,de,1
-Dörfern,Dörfern,LOC,0.7,0.0,de,1
 Tropensturm Melissa,Tropensturm Melissa,LOC,0.7,0.0,de,1
 Bewohner,Bewohner,LOC,-1.0,0.0,de,1
-Klimawandel,Klimawandel,LOC,0.0,1.0,de,1
-Halong,Halong,LOC,0.7,0.0,de,1
+Behördenangaben,Behördenangaben,LOC,-0.7,0.0,de,1
+Dock,Dock,LOC,0.0,0.0,de,1
 Wirbelsturm…,Wirbelsturm…,LOC,0.0,0.0,de,1
-Nimand,Nimand,LOC,0.0,0.0,de,1
+Sturmflut,Sturmflut,LOC,-0.5666666666666667,0.3333333333333333,de,1
