@@ -1,127 +1,156 @@
-,phrase,label,sentiment,subjectivity,language,count
-Hurrikan,Hurrikan,MISC,-0.17777777777777773,0.1111111111111111,de,41
+,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
 "Link
 ","Link
-",MISC,,,de,41
-Hurrikan Melissa,Hurrikan Melissa,MISC,-3.75,7.0,de,31
-“,“,MISC,,,de,23
-Gefährlicher Wirbelsturm,Gefährlicher Wirbelsturm,MISC,,,de,16
-Zahl der Toten,Zahl der Toten,MISC,,,de,5
-jamaikanische,jamaikanische,MISC,,,de,5
-Gefährlicher Wirbelsturm“,Gefährlicher Wirbelsturm“,MISC,,,de,5
-Capital</li><li>4,Capital</li><li>4,MISC,,,de,5
-stern+,stern+,MISC,,,de,5
-stern+statt,stern+statt,MISC,,,de,5
-KI-Rechenmodelle,KI-Rechenmodelle,MISC,,,de,4
-sozialistischen,sozialistischen,MISC,,,de,4
-Schweizer,Schweizer,MISC,,,de,3
-Hurrikan Imelda,Hurrikan Imelda,MISC,,,de,3
-Bualoi“,Bualoi“,MISC,,,de,3
-H60,H60,MISC,,,de,3
-Imelda,Imelda,MISC,,,de,3
-Hurrikan Kurs,Hurrikan Kurs,MISC,,,de,3
-Tödlicher Wirbelsturm“,Tödlicher Wirbelsturm“,MISC,,,de,2
-Hurrikan des Jahres,Hurrikan des Jahres,MISC,,,de,2
-28.10.2025,28.10.2025,MISC,,,de,2
-…,…,MISC,0.0,0.0,de,2
-O…,O…,MISC,,,de,2
-e…,e…,MISC,,,de,2
-Kategorie-5-Hurrikan,Kategorie-5-Hurrikan,MISC,,,de,2
-französischen,französischen,MISC,,,de,2
-H60-Modelle,H60-Modelle,MISC,,,de,2
-Außenwelt,Außenwelt,MISC,,,de,2
-Caritas,Caritas,MISC,,,de,2
-Rotes Kreuz,Rotes Kreuz,MISC,,,de,2
-klimaschädliches CO2,klimaschädliches CO2,MISC,,,de,2
-Melissa,Melissa,MISC,-0.06666666666666667,0.0,de,2
-CO2-Speicher,CO2-Speicher,MISC,,,de,2
-Matsch,Matsch,MISC,,,de,2
-Hunger,Hunger,MISC,,,de,2
-Ta…,Ta…,MISC,,,de,2
-kubanischen,kubanischen,MISC,,,de,2
-Jamaika,Jamaika,MISC,-0.006504065040650406,0.0,de,2
-S…,S…,MISC,,,de,2
-J…,J…,MISC,,,de,2
-"Todesopfer durch den Taifun ""Bualoi","Todesopfer durch den Taifun ""Bualoi",MISC,,,de,2
-Schäde…,Schäde…,MISC,,,de,2
-Herbststurm des Jahres,Herbststurm des Jahres,MISC,,,de,2
-Gaza-Waffenruhe,Gaza-Waffenruhe,MISC,,,de,1
-Todesopfer in der Karibik,Todesopfer in der Karibik,MISC,,,de,1
-Barry“,Barry“,MISC,,,de,1
-Sturm 2025 …,Sturm 2025 …,MISC,,,de,1
-Tropischer Wirbelsturm“,Tropischer Wirbelsturm“,MISC,,,de,1
-wa…,wa…,MISC,,,de,1
-Hur…,Hur…,MISC,,,de,1
-Der extrem gefährliche Hurrikan Melissa,Der extrem gefährliche Hurrikan Melissa,MISC,,,de,1
-Stu…,Stu…,MISC,,,de,1
-A… Hurrikan,A… Hurrikan,MISC,,,de,1
-Schwere Winde und Überflutungen,Schwere Winde und Überflutungen,MISC,,,de,1
-Wirbelsturms,Wirbelsturms,MISC,,,de,1
-Vietnam,Vietnam,MISC,0.0,0.0,de,1
-Schwerer Taifun,Schwerer Taifun,MISC,,,de,1
-Supertaifun,Supertaifun,MISC,,,de,1
-Inselst…,Inselst…,MISC,,,de,1
-Taifun Kalmaegi,Taifun Kalmaegi,MISC,,,de,1
-Gesamtzahl der Toten,Gesamtzahl der Toten,MISC,,,de,1
-"Tödlicher Sturm ""Melissa","Tödlicher Sturm ""Melissa",MISC,,,de,1
-mü…,mü…,MISC,,,de,1
-Limit“,Limit“,MISC,,,de,1
-Deutsche,Deutsche,MISC,,,de,1
-haitianischen,haitianischen,MISC,,,de,1
-"Todesopfer, i…","Todesopfer, i…",MISC,,,de,1
-Hurrikan Melis…,Hurrikan Melis…,MISC,,,de,1
-KI Stürme,KI Stürme,MISC,,,de,1
-NZZ QUANTENSPRUNG,NZZ QUANTENSPRUNG,MISC,,,de,1
-PODCAST,PODCAST,MISC,,,de,1
-Zerstörerischer Wirbelsturm“,Zerstörerischer Wirbelsturm“,MISC,,,de,1
-Ausm…,Ausm…,MISC,,,de,1
-Klimaforsche…,Klimaforsche…,MISC,,,de,1
-Zerstörerische Winde und Sturmflut,Zerstörerische Winde und Sturmflut,MISC,,,de,1
-30.10.2025,30.10.2025,MISC,,,de,1
-ePaper,ePaper,MISC,,,de,1
-Todesopfer,Todesopfer,MISC,,,de,1
-Todesopfer in Haiti,Todesopfer in Haiti,MISC,,,de,1
-süditalienischen Policoro,süditalienischen Policoro,MISC,,,de,1
-Ein perfekter Sturm,Ein perfekter Sturm,MISC,,,de,1
-Die Heimatlosen,Die Heimatlosen,MISC,,,de,1
-Taifun ihr Haus,Taifun ihr Haus,MISC,,,de,1
-a…,a…,MISC,,,de,1
-CO2,CO2,MISC,,,de,1
-CCTV,CCTV,MISC,,,de,1
-chinesischen,chinesischen,MISC,,,de,1
-Taifun Matmo,Taifun Matmo,MISC,,,de,1
-italienischem,italienischem,MISC,,,de,1
-Tornado,Tornado,MISC,,,de,1
-Wirbelsturm“,Wirbelsturm“,MISC,,,de,1
-Nacht übe…,Nacht übe…,MISC,,,de,1
-Nordatlantik“,Nordatlantik“,MISC,,,de,1
-Cha…,Cha…,MISC,,,de,1
-H60 Hub Ultra,H60 Hub Ultra,MISC,,,de,1
-Behördenangab…,Behördenangab…,MISC,,,de,1
-Fischer…,Fischer…,MISC,,,de,1
-Todesopfer auf 24,Todesopfer auf 24,MISC,,,de,1
-sozialen,sozialen,MISC,,,de,1
-Wirbelsturm üb...,Wirbelsturm üb...,MISC,,,de,1
-Woh…,Woh…,MISC,,,de,1
+",MISC,,,de,51,,,,,,
+Hurrikan,Hurrikan,MISC,-0.15999999999999998,0.1,de,43,,,,,,
+Hurrikan Melissa,Hurrikan Melissa,MISC,-8.750000000000002,7.0,de,39,,,,,,
+“,“,MISC,-2.35,0.5,de,29,,,,,,
+Gefährlicher Wirbelsturm,Gefährlicher Wirbelsturm,MISC,,,de,17,,,,,,
+Gefährlicher Wirbelsturm“,Gefährlicher Wirbelsturm“,MISC,,,de,5,,,,,,
+sozialistischen,sozialistischen,MISC,,,de,5,,,,,,
+jamaikanische,jamaikanische,MISC,,,de,5,,,,,,
+stern+,stern+,MISC,,,de,5,,,,,,
+stern+statt,stern+statt,MISC,,,de,5,,,,,,
+Capital</li><li>4,Capital</li><li>4,MISC,,,de,5,,,,,,
+Zahl der Toten,Zahl der Toten,MISC,,,de,5,,,,,,
+KI-Rechenmodelle,KI-Rechenmodelle,MISC,,,de,4,,,,,,
+Kalmaegi“,Kalmaegi“,MISC,,,de,4,,,,,,
+Fung-Wong“,Fung-Wong“,MISC,,,de,4,,,,,,
+Imelda,Imelda,MISC,,,de,3,,,,,,
+H60,H60,MISC,,,de,3,,,,,,
+Super-Taifun,Super-Taifun,MISC,,,de,3,,,,,,
+Schweizer,Schweizer,MISC,,,de,3,,,,,,
+Tornado,Tornado,MISC,,,de,3,,,,,,
+Hurrikan Kurs,Hurrikan Kurs,MISC,,,de,3,,,,,,
+Tropischer Wirbelsturm“,Tropischer Wirbelsturm“,MISC,,,de,3,,,,,,
+Bualoi“,Bualoi“,MISC,,,de,3,,,,,,
+Schwerer Taifun,Schwerer Taifun,MISC,,,de,3,,,,,,
+Hurrikan Imelda,Hurrikan Imelda,MISC,,,de,3,,,,,,
+e…,e…,MISC,,,de,2,,,,,,
+Windgeschwin…,Windgeschwin…,MISC,,,de,2,,,,,,
+Hurrikan des Jahres,Hurrikan des Jahres,MISC,,,de,2,,,,,,
+Chaos auf den Philippinen,Chaos auf den Philippinen,MISC,,,de,2,,,,,,
+Ta…,Ta…,MISC,,,de,2,,,,,,
+philippinischen,philippinischen,MISC,,,de,2,,,,,,
+Vietnam,Vietnam,MISC,0.0,0.0,de,2,,,,,,
+Melissa,Melissa,MISC,-0.06666666666666667,0.0,de,2,,,,,,
+28.10.2025,28.10.2025,MISC,,,de,2,,,,,,
+…,…,MISC,0.0,0.0,de,2,,,,,,
+Kategorie-5-Hurrikan,Kategorie-5-Hurrikan,MISC,,,de,2,,,,,,
+Fung Wong“,Fung Wong“,MISC,,,de,2,,,,,,
+Außenwelt,Außenwelt,MISC,,,de,2,,,,,,
+Tödlicher Wirbelsturm“,Tödlicher Wirbelsturm“,MISC,,,de,2,,,,,,
+Jamaika,Jamaika,MISC,-0.00583941605839416,0.0,de,2,,,,,,
+Premier Holness,Premier Holness,MISC,,,de,2,,,,,,
+J…,J…,MISC,,,de,2,,,,,,
+Taifun in diesem Jahr,Taifun in diesem Jahr,MISC,,,de,2,,,,,,
+Rotes Kreuz,Rotes Kreuz,MISC,,,de,2,,,,,,
+Caritas,Caritas,MISC,,,de,2,,,,,,
+Hunger,Hunger,MISC,,,de,2,,,,,,
+O…,O…,MISC,,,de,2,,,,,,
+Matsch,Matsch,MISC,,,de,2,,,,,,
+kubanischen,kubanischen,MISC,,,de,2,,,,,,
+S…,S…,MISC,,,de,2,,,,,,
+Herbststurm des Jahres,Herbststurm des Jahres,MISC,,,de,2,,,,,,
+französischen,französischen,MISC,,,de,2,,,,,,
+H60-Modelle,H60-Modelle,MISC,,,de,2,,,,,,
+Schäde…,Schäde…,MISC,,,de,2,,,,,,
+"Todesopfer durch den Taifun ""Bualoi","Todesopfer durch den Taifun ""Bualoi",MISC,,,de,2,,,,,,
+CO2-Speicher,CO2-Speicher,MISC,,,de,2,,,,,,
+klimaschädliches CO2,klimaschädliches CO2,MISC,,,de,2,,,,,,
+Extremwetter-Ereignisse,Extremwetter-Ereignisse,MISC,,,de,2,,,,,,
+Wirbelsturm üb...,Wirbelsturm üb...,MISC,,,de,1,,,,,,
+Deutsche,Deutsche,MISC,,,de,1,,,,,,
+Supertaifun,Supertaifun,MISC,,,de,1,,,,,,
+Inselst…,Inselst…,MISC,,,de,1,,,,,,
+Taifun Kalmaegi,Taifun Kalmaegi,MISC,,,de,1,,,,,,
+Tages,Tages,MISC,,,de,1,,,,,,
+Gesamtzahl der Toten,Gesamtzahl der Toten,MISC,,,de,1,,,,,,
+"Tödlicher Sturm ""Melissa","Tödlicher Sturm ""Melissa",MISC,,,de,1,,,,,,
+mü…,mü…,MISC,,,de,1,,,,,,
+Limit“,Limit“,MISC,,,de,1,,,,,,
+italienischem,italienischem,MISC,,,de,1,,,,,,
+süditalienischen Policoro,süditalienischen Policoro,MISC,,,de,1,,,,,,
+Klimaforsche…,Klimaforsche…,MISC,,,de,1,,,,,,
+Taifun Matmo,Taifun Matmo,MISC,,,de,1,,,,,,
+haitianischen,haitianischen,MISC,,,de,1,,,,,,
+"Todesopfer, i…","Todesopfer, i…",MISC,,,de,1,,,,,,
+Hurrikan Melis…,Hurrikan Melis…,MISC,,,de,1,,,,,,
+KI Stürme,KI Stürme,MISC,,,de,1,,,,,,
+NZZ QUANTENSPRUNG,NZZ QUANTENSPRUNG,MISC,,,de,1,,,,,,
+PODCAST,PODCAST,MISC,,,de,1,,,,,,
+Zerstörerischer Wirbelsturm“,Zerstörerischer Wirbelsturm“,MISC,,,de,1,,,,,,
+A… Hurrikan,A… Hurrikan,MISC,,,de,1,,,,,,
+Todesopfer auf 188,Todesopfer auf 188,MISC,,,de,1,,,,,,
+Todesopf…,Todesopf…,MISC,,,de,1,,,,,,
+Vendée Globe st…,Vendée Globe st…,MISC,,,de,1,,,,,,
+Nacht übe…,Nacht übe…,MISC,,,de,1,,,,,,
+X kursi,X kursi,MISC,,,de,1,,,,,,
+philippinischer,philippinischer,MISC,,,de,1,,,,,,
+Todesopfer auf 24,Todesopfer auf 24,MISC,,,de,1,,,,,,
+Philippinische Familie,Philippinische Familie,MISC,,,de,1,,,,,,
+Ein Supertaifun,Ein Supertaifun,MISC,,,de,1,,,,,,
+Fischer…,Fischer…,MISC,,,de,1,,,,,,
+Supert…,Supert…,MISC,,,de,1,,,,,,
+Der Supertaifun «Fung-Wong,Der Supertaifun «Fung-Wong,MISC,,,de,1,,,,,,
+Manila,Manila,MISC,,,de,1,,,,,,
+Behördenangab…,Behördenangab…,MISC,,,de,1,,,,,,
+Bomben-Zyklon,Bomben-Zyklon,MISC,,,de,1,,,,,,
+Alarm auf den Philippinen,Alarm auf den Philippinen,MISC,,,de,1,,,,,,
+Sturm…,Sturm…,MISC,,,de,1,,,,,,
+H60 Hub Ultra,H60 Hub Ultra,MISC,,,de,1,,,,,,
+09.11.2025,09.11.2025,MISC,,,de,1,,,,,,
+Cha…,Cha…,MISC,,,de,1,,,,,,
+Nächster Taifun,Nächster Taifun,MISC,,,de,1,,,,,,
+Nordatlantik“,Nordatlantik“,MISC,,,de,1,,,,,,
+Wirbelsturm“,Wirbelsturm“,MISC,,,de,1,,,,,,
+chinesischen,chinesischen,MISC,,,de,1,,,,,,
+Lä…,Lä…,MISC,,,de,1,,,,,,
+Mia…,Mia…,MISC,,,de,1,,,,,,
+Uh…,Uh…,MISC,,,de,1,,,,,,
+a…,a…,MISC,,,de,1,,,,,,
+Todesopfer in Haiti,Todesopfer in Haiti,MISC,,,de,1,,,,,,
+Woh…,Woh…,MISC,,,de,1,,,,,,
+Taifun ihr Haus,Taifun ihr Haus,MISC,,,de,1,,,,,,
+Supertaifun Ragasa,Supertaifun Ragasa,MISC,,,de,1,,,,,,
+Die Heimatlosen,Die Heimatlosen,MISC,,,de,1,,,,,,
+Sturm,Sturm,MISC,0.175,0.25,de,1,,,,,,
+Hurrikan ,Hurrikan ,MISC,,,de,1,,,,,,
+Auswi…,Auswi…,MISC,,,de,1,,,,,,
+Miami mitte…,Miami mitte…,MISC,,,de,1,,,,,,
+Trump,Trump,MISC,,,de,1,,,,,,
+Wetter“,Wetter“,MISC,,,de,1,,,,,,
+Sde Teiman,Sde Teiman,MISC,,,de,1,,,,,,
+Hurrikan vor Jamaika“,Hurrikan vor Jamaika“,MISC,,,de,1,,,,,,
 "Hurrikansaison
 ","Hurrikansaison
-",MISC,,,de,1
-Sturm,Sturm,MISC,0.175,0.25,de,1
-Hurrikan ,Hurrikan ,MISC,,,de,1
-Auswi…,Auswi…,MISC,,,de,1
-Uh…,Uh…,MISC,,,de,1
-Miami mitte…,Miami mitte…,MISC,,,de,1
-Wetter“,Wetter“,MISC,,,de,1
-Sde Teiman,Sde Teiman,MISC,,,de,1
-Hurrikan vor Jamaika“,Hurrikan vor Jamaika“,MISC,,,de,1
-Supertaifun Ragasa,Supertaifun Ragasa,MISC,,,de,1
-Zeit,Zeit,MISC,,,de,1
-Sturm des Jahres,Sturm des Jahres,MISC,,,de,1
-Mia…,Mia…,MISC,,,de,1
-Tages,Tages,MISC,,,de,1
-Bombenzyklon im Anmarsch,Bombenzyklon im Anmarsch,MISC,,,de,1
-Bomben-Zyklon,Bomben-Zyklon,MISC,,,de,1
-Vendée Globe st…,Vendée Globe st…,MISC,,,de,1
-Vendée Globe,Vendée Globe,MISC,,,de,1
-Mini-Transat,Mini-Transat,MISC,,,de,1
-Chaos auf den Philippinen,Chaos auf den Philippinen,MISC,,,de,1
+",MISC,,,de,1,,,,,,
+Todesopfer,Todesopfer,MISC,,,de,1,,,,,,
+Ein perfekter Sturm,Ein perfekter Sturm,MISC,,,de,1,,,,,,
+Sturm des Jahres,Sturm des Jahres,MISC,,,de,1,,,,,,
+sozialen,sozialen,MISC,,,de,1,,,,,,
+Zeit,Zeit,MISC,,,de,1,,,,,,
+Mini-Transat,Mini-Transat,MISC,,,de,1,,,,,,
+Ausm…,Ausm…,MISC,,,de,1,,,,,,
+Vendée Globe,Vendée Globe,MISC,,,de,1,,,,,,
+ePaper,ePaper,MISC,,,de,1,,,,,,
+Zerstörerische Winde und Sturmflut,Zerstörerische Winde und Sturmflut,MISC,,,de,1,,,,,,
+30.10.2025,30.10.2025,MISC,,,de,1,,,,,,
+Bombenzyklon im Anmarsch,Bombenzyklon im Anmarsch,MISC,,,de,1,,,,,,
+Schwere Winde und Überflutungen,Schwere Winde und Überflutungen,MISC,,,de,1,,,,,,
+Barry“,Barry“,MISC,,,de,1,,,,,,
+wa…,wa…,MISC,,,de,1,,,,,,
+Sturm 2025 …,Sturm 2025 …,MISC,,,de,1,,,,,,
+CCTV,CCTV,MISC,,,de,1,,,,,,
+Stu…,Stu…,MISC,,,de,1,,,,,,
+Wirbelstürme und Dürren,Wirbelstürme und Dürren,MISC,,,de,1,,,,,,
+UN-Bericht,UN-Bericht,MISC,,,de,1,,,,,,
+Super Bowl,Super Bowl,MISC,,,de,1,,,,,,
+Super Bowl 2026,Super Bowl 2026,MISC,,,de,1,,,,,,
+Hur…,Hur…,MISC,,,de,1,,,,,,
+Spanisch,Spanisch,MISC,,,de,1,,,,,,
+Der extrem gefährliche Hurrikan Melissa,Der extrem gefährliche Hurrikan Melissa,MISC,,,de,1,,,,,,
+CO2,CO2,MISC,,,de,1,,,,,,
+Todesopfer in der Karibik,Todesopfer in der Karibik,MISC,,,de,1,,,,,,
+Gaza-Waffenruhe,Gaza-Waffenruhe,MISC,,,de,1,,,,,,
+Wirbelsturms,Wirbelsturms,MISC,,,de,1,,,,,,

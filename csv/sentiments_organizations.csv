@@ -1,61 +1,77 @@
-,phrase,label,sentiment,subjectivity,language,count
-NHC,NHC,ORG,-0.4388888888888889,0.0,de,9
-GEO,GEO,ORG,1.0,0.0,de,5
-US-Hurrikanzentrum NHC,US-Hurrikanzentrum NHC,ORG,-0.3333333333333333,0.0,de,3
-Rote Kreuz,Rote Kreuz,ORG,-0.7,0.0,de,2
-US-Hurrikanzentrum,US-Hurrikanzentrum,ORG,-0.35,0.0,de,2
-US-Hurrikanzentrums,US-Hurrikanzentrums,ORG,-0.35,0.0,de,2
-we…,we…,ORG,0.0,0.0,de,2
-Bewohner Jamaikas,Bewohner Jamaikas,ORG,-0.35,0.0,de,2
-Taifun Matmo,Taifun Matmo,ORG,-0.35,0.16666666666666666,de,2
-US-Hurrikanwarnzentrum,US-Hurrikanwarnzentrum,ORG,-0.425,0.0,de,2
-Hamas,Hamas,ORG,0.0,0.0,de,2
-Haitis Regierung,Haitis Regierung,ORG,0.35,0.0,de,2
-israelischen Armee,israelischen Armee,ORG,0.0,0.0,de,2
-US-Hurrikanzentrums NHC,US-Hurrikanzentrums NHC,ORG,0.0,0.0,de,1
-D…,D…,ORG,0.0,0.0,de,1
-UN,UN,ORG,0.0,0.0,de,1
-Katastropheng…,Katastropheng…,ORG,0.0,0.0,de,1
-https://epaper.welt.de,https://epaper.welt.de,ORG,0.0,0.0,de,1
-Ministerpr…,Ministerpr…,ORG,-0.6,0.0,de,1
-zerstör…,zerstör…,ORG,0.0,0.0,de,1
-Windgeschwindigke…,Windgeschwindigke…,ORG,0.0,0.0,de,1
-Wind…,Wind…,ORG,-1.0,0.0,de,1
-Jamaikas Regierung,Jamaikas Regierung,ORG,-0.7,0.0,de,1
-Behörd…,Behörd…,ORG,0.0,0.0,de,1
-Ortsz…,Ortsz…,ORG,0.0,0.0,de,1
-National Hurricane Centers,National Hurricane Centers,ORG,0.0,0.0,de,1
-UN-Vollversammlung,UN-Vollversammlung,ORG,0.0,0.0,de,1
-US-Blockade,US-Blockade,ORG,0.0,0.0,de,1
-NZZ,NZZ,ORG,0.0,0.0,de,1
-We…,We…,ORG,0.0,0.0,de,1
-Vo…,Vo…,ORG,0.0,0.0,de,1
-Jamaika,Jamaika,ORG,0.7,0.0,de,1
-And…,And…,ORG,-1.0,0.0,de,1
-IDF,IDF,ORG,0.0,0.0,de,1
-Hurrik…,Hurrik…,ORG,0.0,0.0,de,1
-App,App,ORG,0.0,0.0,de,1
-Hurrikans «Humberto,Hurrikans «Humberto,ORG,0.0,0.0,de,1
-f…,f…,ORG,0.7,0.0,de,1
-fün…,fün…,ORG,0.7,0.0,de,1
-vietnamesische Umweltministerium am Freitag,vietnamesische Umweltministerium am Freitag,ORG,-0.7,0.0,de,1
-NACHRICHTEN,NACHRICHTEN,ORG,0.0,0.0,de,1
-stern-Reports,stern-Reports,ORG,0.0,0.0,de,1
-Zugbahn,Zugbahn,ORG,0.0,0.0,de,1
-Zwangsehe,Zwangsehe,ORG,0.0,0.0,de,1
-Smartphone,Smartphone,ORG,0.0,0.0,de,1
-Offshore-Regatten,Offshore-Regatten,ORG,0.0,0.0,de,1
-Toten…,Toten…,ORG,0.0,0.0,de,1
-Behö…,Behö…,ORG,0.0,0.0,de,1
-Karibikin…,Karibikin…,ORG,-0.7,0.0,de,1
-HurrikanMelissa,HurrikanMelissa,ORG,1.0,0.0,de,1
+,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
+NHC,NHC,ORG,-0.395,0.0,de,10,,,,,,
+GEO,GEO,ORG,1.0,0.0,de,5,,,,,,
+US-Hurrikanzentrum,US-Hurrikanzentrum,ORG,-0.425,0.0,de,4,,,,,,
 "Link
 ","Link
-",ORG,-0.7,0.0,de,1
-W…,W…,ORG,-1.0,0.0,de,1
-Hurrikans «Melissa,Hurrikans «Melissa,ORG,-1.0,0.0,de,1
-K…,K…,ORG,0.0,0.0,de,1
-Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,-1.0,0.0,de,1
-DWD,DWD,ORG,-1.0,0.0,de,1
-University of the West Indies,University of the West Indies,ORG,0.0,0.0,de,1
-Überschwemm…,Überschwemm…,ORG,0.0,0.0,de,1
+",ORG,-0.3,0.16666666666666666,de,3,,,,,,
+US-Hurrikanzentrum NHC,US-Hurrikanzentrum NHC,ORG,-0.3333333333333333,0.0,de,3,,,,,,
+Zentrum des Wirbelsturms,Zentrum des Wirbelsturms,ORG,-0.11666666666666665,0.16666666666666666,de,3,,,,,,
+D…,D…,ORG,0.0,0.0,de,3,,,,,,
+Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,-1.0,0.0,de,3,,,,,,
+US-Hurrikanwarnzentrum,US-Hurrikanwarnzentrum,ORG,-0.425,0.0,de,2,,,,,,
+israelischen Armee,israelischen Armee,ORG,0.0,0.0,de,2,,,,,,
+jamaikanischen Polizei,jamaikanischen Polizei,ORG,0.0,0.0,de,2,,,,,,
+we…,we…,ORG,0.0,0.0,de,2,,,,,,
+Hamas,Hamas,ORG,0.0,0.0,de,2,,,,,,
+US-Hurrikanzentrums,US-Hurrikanzentrums,ORG,-0.35,0.0,de,2,,,,,,
+Bewohner Jamaikas,Bewohner Jamaikas,ORG,-0.35,0.0,de,2,,,,,,
+Haitis Regierung,Haitis Regierung,ORG,0.35,0.0,de,2,,,,,,
+Rote Kreuz,Rote Kreuz,ORG,-0.7,0.0,de,2,,,,,,
+Taifun Matmo,Taifun Matmo,ORG,-0.35,0.16666666666666666,de,2,,,,,,
+DWD,DWD,ORG,-1.0,0.0,de,2,,,,,,
+And…,And…,ORG,-1.0,0.0,de,1,,,,,,
+Jamaikas Regierung,Jamaikas Regierung,ORG,-0.7,0.0,de,1,,,,,,
+Wind…,Wind…,ORG,-1.0,0.0,de,1,,,,,,
+zw…,zw…,ORG,0.15000000000000002,0.0,de,1,,,,,,
+US-Hurrikanzentrums NHC,US-Hurrikanzentrums NHC,ORG,0.0,0.0,de,1,,,,,,
+Stuf…,Stuf…,ORG,0.0,0.0,de,1,,,,,,
+Ministerpr…,Ministerpr…,ORG,-0.6,0.0,de,1,,,,,,
+Atomtest-Moratorium,Atomtest-Moratorium,ORG,0.0,0.0,de,1,,,,,,
+US-Blockade,US-Blockade,ORG,0.0,0.0,de,1,,,,,,
+Ortsz…,Ortsz…,ORG,0.0,0.0,de,1,,,,,,
+National Hurricane Centers,National Hurricane Centers,ORG,0.0,0.0,de,1,,,,,,
+UN-Vollversammlung,UN-Vollversammlung,ORG,0.0,0.0,de,1,,,,,,
+NZZ,NZZ,ORG,0.0,0.0,de,1,,,,,,
+We…,We…,ORG,0.0,0.0,de,1,,,,,,
+Vo…,Vo…,ORG,0.0,0.0,de,1,,,,,,
+Jamaika,Jamaika,ORG,0.7,0.0,de,1,,,,,,
+Überschwemm…,Überschwemm…,ORG,0.0,0.0,de,1,,,,,,
+Windgeschw…,Windgeschw…,ORG,0.0,0.0,de,1,,,,,,
+Taifuns Fung-wong,Taifuns Fung-wong,ORG,-0.7,0.0,de,1,,,,,,
+nationalen philippinischen Wetterdienst,nationalen philippinischen Wetterdienst,ORG,0.0,0.0,de,1,,,,,,
+PAGASA,PAGASA,ORG,0.0,0.0,de,1,,,,,,
+Sonn…,Sonn…,ORG,0.0,0.0,de,1,,,,,,
+Fung…,Fung…,ORG,0.7,0.0,de,1,,,,,,
+Sonnta…,Sonnta…,ORG,0.0,0.0,de,1,,,,,,
+https://epaper.welt.de,https://epaper.welt.de,ORG,0.0,0.0,de,1,,,,,,
+Windgeschwindigke…,Windgeschwindigke…,ORG,0.0,0.0,de,1,,,,,,
+Jamaika-Hurrikan,Jamaika-Hurrikan,ORG,0.0,0.0,de,1,,,,,,
+Toten…,Toten…,ORG,0.0,0.0,de,1,,,,,,
+Hurrikans «Humberto,Hurrikans «Humberto,ORG,0.0,0.0,de,1,,,,,,
+f…,f…,ORG,0.7,0.0,de,1,,,,,,
+fün…,fün…,ORG,0.7,0.0,de,1,,,,,,
+vietnamesische Umweltministerium am Freitag,vietnamesische Umweltministerium am Freitag,ORG,-0.7,0.0,de,1,,,,,,
+NACHRICHTEN,NACHRICHTEN,ORG,0.0,0.0,de,1,,,,,,
+Bad Bunny,Bad Bunny,ORG,1.0,0.0,de,1,,,,,,
+Newsmax,Newsmax,ORG,-1.0,0.0,de,1,,,,,,
+stern-Reports,stern-Reports,ORG,0.0,0.0,de,1,,,,,,
+Zugbahn,Zugbahn,ORG,0.0,0.0,de,1,,,,,,
+Zwangsehe,Zwangsehe,ORG,0.0,0.0,de,1,,,,,,
+Smartphone,Smartphone,ORG,0.0,0.0,de,1,,,,,,
+Offshore-Regatten,Offshore-Regatten,ORG,0.0,0.0,de,1,,,,,,
+Behö…,Behö…,ORG,0.0,0.0,de,1,,,,,,
+Katastropheng…,Katastropheng…,ORG,0.0,0.0,de,1,,,,,,
+Karibikin…,Karibikin…,ORG,-0.7,0.0,de,1,,,,,,
+HurrikanMelissa,HurrikanMelissa,ORG,1.0,0.0,de,1,,,,,,
+W…,W…,ORG,-1.0,0.0,de,1,,,,,,
+Hurrikans «Melissa,Hurrikans «Melissa,ORG,-1.0,0.0,de,1,,,,,,
+K…,K…,ORG,0.0,0.0,de,1,,,,,,
+University of the West Indies,University of the West Indies,ORG,0.0,0.0,de,1,,,,,,
+IDF,IDF,ORG,0.0,0.0,de,1,,,,,,
+Hurrik…,Hurrik…,ORG,0.0,0.0,de,1,,,,,,
+Behörd…,Behörd…,ORG,0.0,0.0,de,1,,,,,,
+App,App,ORG,0.0,0.0,de,1,,,,,,
+zerstör…,zerstör…,ORG,0.0,0.0,de,1,,,,,,
+UN,UN,ORG,0.0,0.0,de,1,,,,,,
+Fol…,Fol…,ORG,0.0,0.0,de,1,,,,,,

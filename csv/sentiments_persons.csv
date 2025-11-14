@@ -1,30 +1,40 @@
-,phrase,label,sentiment,subjectivity,language,count
-Hurrikan Melissa,Hurrikan Melissa,PER,-0.125,0.025,de,20
-Andrew Holness,Andrew Holness,PER,-0.51,0.0,de,5
-"Taifun ""Bualoi","Taifun ""Bualoi",PER,0.0,0.0,de,4
-Jamaikas Regierungschef,Jamaikas Regierungschef,PER,-0.7,0.0,de,2
-Windgeschwindigkeiten vo,Windgeschwindigkeiten vo,PER,0.0,0.0,de,2
-Durchzug von Tropensturm,Durchzug von Tropensturm,PER,0.0,0.0,de,1
-Steven Anaver,Steven Anaver,PER,0.0,0.0,de,1
-Tödlicher Sturm „Melissa,Tödlicher Sturm „Melissa,PER,0.0,0.0,de,1
-"Tödlicher Sturm ""Melissa","Tödlicher Sturm ""Melissa",PER,0.0,0.0,de,1
-Jamaikas Flughäfen,Jamaikas Flughäfen,PER,0.0,0.0,de,1
-Jamaikas Ärzteverband,Jamaikas Ärzteverband,PER,0.0,0.0,de,1
-Reggae-Musiker Shaggy,Reggae-Musiker Shaggy,PER,0.0,0.0,de,1
-"Hurrikan ""Melissa","Hurrikan ""Melissa",PER,-0.7,0.0,de,1
-Dana Morris Dixon,Dana Morris Dixon,PER,-0.2333333333333333,0.0,de,1
-Dana M,Dana M,PER,0.0,0.0,de,1
-Durchzug von Melissa,Durchzug von Melissa,PER,0.0,0.0,de,1
-Unblock Cuba,Unblock Cuba,PER,0.0,0.0,de,1
-Jahrhundertsturm Melissa,Jahrhundertsturm Melissa,PER,0.0,0.0,de,1
-Miguel Díaz-Canel,Miguel Díaz-Canel,PER,0.0,1.0,de,1
-Donald Trump,Donald Trump,PER,1.0,0.0,de,1
-Taifun Bualoi,Taifun Bualoi,PER,-0.2333333333333333,0.6666666666666666,de,1
-Jamaikas Küste,Jamaikas Küste,PER,1.0,0.0,de,1
-Michael Taylor,Michael Taylor,PER,0.0,0.0,de,1
-Monstersturm „Melissa,Monstersturm „Melissa,PER,0.0,0.0,de,1
-Roborock H60,Roborock H60,PER,0.0,0.0,de,1
-Ronalyn Balindan,Ronalyn Balindan,PER,0.0,0.0,de,1
-Reshma Khatun,Reshma Khatun,PER,0.0,0.0,de,1
-Rainer Buchhop,Rainer Buchhop,PER,0.0,0.0,de,1
-Wirbelsturm Melissa,Wirbelsturm Melissa,PER,0.0,0.0,de,1
+,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
+Hurrikan Melissa,Hurrikan Melissa,PER,-0.196,0.02,de,25,,,,,,
+Andrew Holness,Andrew Holness,PER,-0.51,0.0,de,5,,,,,,
+"Taifun ""Bualoi","Taifun ""Bualoi",PER,0.0,0.0,de,4,,,,,,
+"Supertaifun ""Fung-Wong","Supertaifun ""Fung-Wong",PER,0.0,0.0,de,4,,,,,,
+Tropischer Wirbelsturm,Tropischer Wirbelsturm,PER,0.0,0.0,de,3,,,,,,
+Donald Trump,Donald Trump,PER,0.5666666666666667,0.3333333333333333,de,3,,,,,,
+Miguel Díaz-Canel,Miguel Díaz-Canel,PER,0.5,0.5,de,2,,,,,,
+Jamaikas Regierungschef,Jamaikas Regierungschef,PER,-0.7,0.0,de,2,,,,,,
+Jamaikas Ministerpräsident,Jamaikas Ministerpräsident,PER,0.0,0.0,de,2,,,,,,
+Windgeschwindigkeiten vo,Windgeschwindigkeiten vo,PER,0.0,0.0,de,2,,,,,,
+Ronalyn Balindan,Ronalyn Balindan,PER,0.0,0.0,de,1,,,,,,
+"Tödlicher Sturm ""Melissa","Tödlicher Sturm ""Melissa",PER,0.0,0.0,de,1,,,,,,
+Reggae-Musiker Shaggy,Reggae-Musiker Shaggy,PER,0.0,0.0,de,1,,,,,,
+Jamaikas Ärzteverband,Jamaikas Ärzteverband,PER,0.0,0.0,de,1,,,,,,
+Jamaikas Flughäfen,Jamaikas Flughäfen,PER,0.0,0.0,de,1,,,,,,
+Tödlicher Sturm „Melissa,Tödlicher Sturm „Melissa,PER,0.0,0.0,de,1,,,,,,
+Dana Morris Dixon,Dana Morris Dixon,PER,-0.2333333333333333,0.0,de,1,,,,,,
+Wirbelsturm Melissa,Wirbelsturm Melissa,PER,0.0,0.0,de,1,,,,,,
+Supertaifun «Fung-Wong,Supertaifun «Fung-Wong,PER,-0.7,0.0,de,1,,,,,,
+Fung Wong,Fung Wong,PER,0.0,0.0,de,1,,,,,,
+Trumps Anhängerschaft,Trumps Anhängerschaft,PER,0.7,0.0,de,1,,,,,,
+Roborock H60,Roborock H60,PER,0.0,0.0,de,1,,,,,,
+Aurora befin,Aurora befin,PER,0.0,0.0,de,1,,,,,,
+"Hurrikan ""Melissa","Hurrikan ""Melissa",PER,-0.7,0.0,de,1,,,,,,
+Unblock Cuba,Unblock Cuba,PER,0.0,0.0,de,1,,,,,,
+Dana M,Dana M,PER,0.0,0.0,de,1,,,,,,
+Durchzug von Melissa,Durchzug von Melissa,PER,0.0,0.0,de,1,,,,,,
+Reshma Khatun,Reshma Khatun,PER,0.0,0.0,de,1,,,,,,
+Jahrhundertsturm Melissa,Jahrhundertsturm Melissa,PER,0.0,0.0,de,1,,,,,,
+Taifun Bualoi,Taifun Bualoi,PER,-0.2333333333333333,0.6666666666666666,de,1,,,,,,
+Jamaikas Küste,Jamaikas Küste,PER,1.0,0.0,de,1,,,,,,
+Michael Taylor,Michael Taylor,PER,0.0,0.0,de,1,,,,,,
+Monstersturm „Melissa,Monstersturm „Melissa,PER,0.0,0.0,de,1,,,,,,
+Donald Trump ,Donald Trump ,PER,-1.0,0.0,de,1,,,,,,
+Greg Kelly Reports,Greg Kelly Reports,PER,-1.0,0.0,de,1,,,,,,
+Rainer Buchhop,Rainer Buchhop,PER,0.0,0.0,de,1,,,,,,
+Steven Anaver,Steven Anaver,PER,0.0,0.0,de,1,,,,,,
+Durchzug von Tropensturm,Durchzug von Tropensturm,PER,0.0,0.0,de,1,,,,,,
+Jakob Mayr,Jakob Mayr,PER,0.0,0.0,de,1,,,,,,
